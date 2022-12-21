@@ -2,7 +2,7 @@
 This project is done with the following considerations:
 1. API Data Extraction from https://swapi.dev/
 2. Data Transformation
-3. Dummy load to database
+3. Dummy load to PostgreSQL database
 
 The tables to be created are as follow:
 
