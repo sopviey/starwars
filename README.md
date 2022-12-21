@@ -6,7 +6,7 @@ This project is done with the following considerations:
 
 The tables to be created are as follow:
 
-<h3>dim_film table</h3>
+<h3>dim_film </h3>
 
 <table style="width:100%">
   <tr>
@@ -87,7 +87,7 @@ The tables to be created are as follow:
   
 </table>
   
-<h3>dim_people table</h3>
+<h3>dim_people </h3>
 
 <table style="width:100%">
   <tr>
@@ -173,7 +173,7 @@ The tables to be created are as follow:
   
 </table>
 
-<h3>film_people_map table</h3>
+<h3>film_people_map </h3>
 
 <table style="width:100%">
   <tr>
