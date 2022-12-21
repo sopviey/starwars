@@ -1,6 +1,6 @@
 # starwars
 This project is done with the following considerations:
-1. API Data Extration from https://swapi.dev/
+1. API Data Extraction from https://swapi.dev/
 2. Data Transformation
 3. Dummy load to database
 
