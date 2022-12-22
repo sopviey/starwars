@@ -4,7 +4,7 @@ This project is done with the following considerations:
 2. Data Transformation
 3. Dummy load to PostgreSQL database
 
-The tables to be created are as follow:
+The 2 tables to be created are as follow:
 
 <h3>dim_film </h3>
 
