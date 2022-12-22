@@ -172,24 +172,4 @@ The tables to be created are as follow:
   </tr>
   
 </table>
-
-<h3>film_people_map </h3>
-
-<table style="width:100%">
-  <tr>
-    <th>Field Name</th>
-    <th>Field Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>film_id</td>
-    <td>Integer</td>
-    <td>Pkey of dim_film</td>
-  </tr>
-  <tr>
-    <td>people_id</td>
-    <td>Integer</td>
-    <td>Pkey of dim_people</td>
-  </tr>
-  
-  </table>
+ 
